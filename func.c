@@ -328,11 +328,6 @@ void loadMoves(const char* filename) {
         printf("Can not access the file.\n");
         exit(0);
     }
-     else if (ftell(fp)==0) //若文件為空
-    {
-        printf("The file is empty.\n");
-        exit(0);
-    }
     else{
         int row1,col1,row2,col2;
         while (fscanf(fp, "%*d. %d %d %d %d %d", &row1, &col1, &row2, &col2, &l_eaten_piece)!=EOF)
