@@ -1,5 +1,4 @@
-# assignment_2-Paul-cod
-assignment_2-Paul-cod created by GitHub Classroom
+# 109503003 陳柏禎 通訊三
 # gcc compile c 
 進到程式所在資料夾  
 1.輸入make  
