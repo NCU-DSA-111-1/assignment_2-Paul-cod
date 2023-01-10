@@ -1,5 +1,5 @@
 # 109503003 陳柏禎 通訊三
-# gcc compile c 
+# Compile c code
 進到程式所在資料夾  
 1.輸入make  
 2.接下來看要執行下列哪個動作  
