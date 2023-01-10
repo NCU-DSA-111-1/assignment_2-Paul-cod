@@ -1,0 +1,18 @@
+# assignment_2-Paul-cod
+assignment_2-Paul-cod created by GitHub Classroom
+# gcc compile c 
+進到程式所在資料夾  
+1.輸入make  
+2.接下來看要執行下列哪個動作  
+open a new game ./main -n filename.txt  
+load a game ./main -l filename.txt
+# usage
+## 開新局
+1.依照提示依序輸入座標位置  
+2.若要儲存檔案則輸入s（注意：若沒有按下s則不會有儲存對局，考慮到不是每一局使用者都想要存取）  
+3.按0悔棋
+## 讀取棋譜
+1.輸入f往下一步 輸入b往回一步 
+
+# 結束遊戲
+請直接按control+c
