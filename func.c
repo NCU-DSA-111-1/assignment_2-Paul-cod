@@ -108,6 +108,7 @@ bool is_valid_move(int arr[10][10],int row1, int col1,int row2, int col2,int pla
         return col1==col2&&row1-row2==1;
 
     }
+    return true;
 
 }
 
@@ -399,3 +400,6 @@ void review_backward(int arr[10][10]){
         }
     }
 }
+
+
+ 
